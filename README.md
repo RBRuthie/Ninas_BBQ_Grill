@@ -7,6 +7,6 @@
 
 <table>
   <tr>
-    <td><img src="img/Ninas_BBQ_GRILL.png" width=202.5 ></td>
+    <td><img src="img/ninas_bbq_grill.png" width="900" ></td>
   </tr>
  </table>
