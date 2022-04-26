@@ -1,0 +1,251 @@
+
+
+<!-- START BANNER -->
+				<tr>
+					<td class="banner" background="img/" width="600" height="350" style="background-position: center top;">
+
+						<!--[if (gte mso 9)|(IE)]>
+						<v:rect xmlns:v="urn:schemas-microsoft-com:vml" fill="true" stroke="false" style="width:600px;height:350px;">
+							<v:fill type="tile" src="img/logo_ninas.png" />
+							<v:textbox inset="0,0,0,0">
+						<![endif]-->
+
+						<table class="darkmode-transparent" cellpadding="0" cellspacing="0" role="presentation">
+							<tr>
+								<td width="600" align="center" valign="middle">
+									<table class="darkmode-transparent" cellpadding="0" cellspacing="0" role="presentation">
+
+											<!-- text -->
+										<tr>
+											<td align="center">
+												<table class="darkmode-transparent" role="presentation">
+													<tr>
+
+													<!--[if (gte mso 9)|(IE)]>
+                                          <td style="padding-top:80px;padding-bottom:20px;"></td>
+                                       <![endif]-->
+
+														<!-- <td valign="middle" align="center" style="padding-right: 10px;padding-left: 10px;padding-bottom:15px;vertical-align:middle;">
+															<p style="font-size: 30px;color: #515151;font-weight:bold;">COMPANY NEWSLETTER</p>
+															<p align="center" style="font-size:18px;color: #515151;">The latest from our business.</p>
+														</td> -->
+													</tr>
+												</table>
+											 </td>
+										</tr>
+
+										<!-- button -->
+										<!-- <tr>
+											<td align="center">
+												<table class="darkmode-transparent" align="center" border="0" cellspacing="0" cellpadding="0" role="presentation">
+													<tr>
+										
+														<td align="center" style="border-radius:4px;" bgcolor="#2cbc8c">
+															<a href="https://example.com" target="_blank" style="font-size: 16px;font-weight: bold;text-decoration: none;color: #ffffff;background-color: #2cbc8c;border:1px solid #2cbc8c;border-radius:4px;padding:12px 18px;display: inline-block;">GET STARTED
+															</a>
+														</td>
+
+													</tr>
+												</table>
+											</td>
+										</tr> -->
+									</table>
+								</td>
+							</tr>
+
+							<tr>
+								<td height="25"> </td>
+							</tr>
+
+						</table>
+
+						<!--[if (gte mso 9)|(IE)]>
+						</v:textbox>
+						</v:rect>
+						<![endif]-->
+
+					</td>
+				</tr>
+<!-- END BANNER -->
+
+
+<!-- START TWO COLUMNS ROW 1 -->
+            <tr>
+               <td style="padding-top:35px;padding-right:0;padding-bottom:30px;padding-left:0;">
+                  <table width="100%" style="border-spacing:0;" role="presentation">
+                     <tr>
+                        <td class="two-columns" style="padding-right:0;padding-left:0;font-size:0;text-align: center;">
+
+                           <!--[if (gte mso 9)|(IE)]>
+                              <table width="100%" style="border-spacing:0;" role="presentation">
+                              <tr>
+                              <td width="300" valign="top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;">
+                           <![endif]-->
+
+                           <table class="column" style="border-spacing:0;vertical-align:top;width:100%;max-width:300px;display:inline-block;" role="presentation">
+                              <tr>
+                                 <td class="padding" style="padding-top: 20px;padding-right: 10px;padding-bottom: 20px;padding-left: 10px;">
+
+                                    <table class="content" style="border-spacing:0;text-align: left;" role="presentation">
+                                       <tr>
+                                          <td>
+                                             <a href="https://example.com" target="_blank">
+																<img src="https://via.placeholder.com/560x420" width="280" alt="" style="border-width:0;width:100%;max-width:280px;height:auto;display:block;">
+                                             </a>
+														</td>
+                                       </tr>
+                                    </table>
+
+                                 </td>
+                              </tr>
+                           </table>
+
+                           <!--[if (gte mso 9)|(IE)]>
+                           </td><td width="300" valign="top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;">
+                           <![endif]-->
+
+                           <table class="column" style="border-spacing:0;vertical-align:top;width:100%;max-width:300px;display:inline-block;" role="presentation">
+                              <tr>
+                                 <td class="padding" style="padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;">
+
+                                    <table class="content" style="border-spacing:0;text-align: left;" role="presentation">
+                                       <tr>
+                                          <td style="padding-top: 5px;padding-right: 10px;padding-bottom: 15px;padding-left: 10px;">
+                                             <p style="font-size: 17px;font-weight: bold;">The Latest Phone</p>
+                                             <p style="font-size: 15px;">Responsive HTML Email Templates that you can build around to master email development. Responsive HTML Email Templates.</p>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td align="left" style="padding-left: 10px;">
+                                             <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-spacing:0;">
+                                                <tr>
+
+																	<td align="center" style="border-radius:4px;" bgcolor="#277fd2">
+																		<a href="https://example.com" target="_blank" style="font-size: 16px;font-weight: bold;text-decoration: none;color: #ffffff;background-color: #277fd2;border:1px solid #277fd2;border-radius:4px;padding:10px 15px;display: inline-block;">Read more
+																		</a>
+																	</td>
+
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+
+                                 </td>
+                              </tr>
+                           </table>
+
+                           <!--[if (gte mso 9)|(IE)]>
+                              </td>
+                              </tr>
+                              </table>
+                           <![endif]-->
+
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+<!-- END TWO COLUMNS ROW 1 -->
+
+
+<!-- START TWO COLUMNS ROW 2 -->
+            <tr>
+               <td style="padding-top:0px;padding-right:0;padding-bottom:30px;padding-left:0;">
+                  <table width="100%" style="border-spacing:0;" role="presentation">
+                     <tr>
+                        <td class="two-columns" style="padding-right:0;padding-left:0;font-size:0;text-align: center;">
+
+                           <!--[if (gte mso 9)|(IE)]>
+                              <table width="100%" style="border-spacing:0;" role="presentation">
+                              <tr>
+                              <td width="300" valign="top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;">
+                           <![endif]-->
+
+                           <table class="column" style="border-spacing:0;vertical-align:top;width:100%;max-width:300px;display:inline-block;" role="presentation">
+                              <tr>
+                                 <td class="padding" style="padding-top: 20px;padding-right: 10px;padding-bottom: 20px;padding-left: 10px;">
+
+                                    <table class="content" style="border-spacing:0;text-align: left;" role="presentation">
+                                       <tr>
+                                          <td>
+                                             <a href="https://example.com" target="_blank">
+																<img src="https://via.placeholder.com/560x420" width="280" alt="" style="border-width:0;width:100%;max-width:280px;height:auto;display:block;">
+                                             </a>
+														</td>
+                                       </tr>
+                                    </table>
+
+                                 </td>
+                              </tr>
+                           </table>
+
+                           <!--[if (gte mso 9)|(IE)]>
+                           </td><td width="300" valign="top" style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;">
+                           <![endif]-->
+
+                           <table class="column" style="border-spacing:0;vertical-align:top;width:100%;max-width:300px;display:inline-block;" role="presentation">
+                              <tr>
+                                 <td class="padding" style="padding-top: 20px;padding-right: 20px;padding-bottom: 20px;padding-left: 20px;">
+
+                                    <table class="content" style="border-spacing:0;text-align: left;" role="presentation">
+                                       <tr>
+                                          <td style="padding-top: 10px;padding-right: 10px;padding-bottom: 15px;padding-left: 10px;">
+                                             <p style="font-size: 17px;font-weight: bold;">The Latest Phone</p>
+                                             <p style="font-size: 15px;">Responsive HTML Email Templates that you can build around to master email development. Responsive HTML Email Templates.</p>
+                                          </td>
+                                       </tr>
+                                       <tr>
+                                          <td align="left" style="padding-left: 10px;">
+                                             <table align="left" border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-spacing:0;">
+                                                <tr>
+
+																	<td align="center" style="border-radius:4px;" bgcolor="#277fd2">
+																		<a href="https://example.com" target="_blank" style="font-size: 16px;font-weight: bold;text-decoration: none;color: #ffffff;background-color: #277fd2;border:1px solid #277fd2;border-radius:4px;padding:10px 15px;display: inline-block;">Read more
+																		</a>
+																	</td>
+
+                                                </tr>
+                                             </table>
+                                          </td>
+                                       </tr>
+                                    </table>
+
+                                 </td>
+                              </tr>
+                           </table>
+
+                           <!--[if (gte mso 9)|(IE)]>
+                              </td>
+                              </tr>
+                              </table>
+                           <![endif]-->
+
+                        </td>
+                     </tr>
+                  </table>
+               </td>
+            </tr>
+<!-- END TWO COLUMNS ROW 2 -->
+
+
+
+
+<!-- START SOCIAL ICONS -->
+				<!-- <tr>
+					<td style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;">
+						<table width="100%" style="border-spacing:0;" role="presentation">
+							<tr>
+								<td class="padding content" style="background-color: #ffffff; color:#ffffff;font-size:16px; padding-top:10px; padding-right:20px; padding-bottom:20px; padding-left:20px; width:100%; text-align:center; width:600px;">
+									<p style="font-size:18px;line-height: 35px;padding-bottom: 5px;">Connect with us</p>
+									<a href="https://www.example.com"><img src="https://via.placeholder.com/100x100" alt="footer facebook" width="30" style="border-width:0;"></a>
+									<a href="https://www.example.com"><img src="https://via.placeholder.com/100x100" alt="footer twitter" width="30" style="border-width:0;"></a>
+									<a href="https://www.example.com"><img src="https://via.placeholder.com/100x100" alt="footer youtube" width="30" style="border-width:0;"></a>
+									<a href="https://www.example.com"><img src="https://via.placeholder.com/100x100" alt="footer linkedin" width="30" style="border-width:0;"></a>
+									<a href="https://www.example.com"><img src="https://via.placeholder.com/100x100" alt="footer instagram" width="30" style="border-width:0;"></a>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr> -->
+<!-- END SOCIAL ICONS -->
